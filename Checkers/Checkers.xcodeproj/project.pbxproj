@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		3403CC5C228DD19300299688 /* Piece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3403CC5B228DD19200299688 /* Piece.swift */; };
 		3403CC6422937DDE00299688 /* KingPiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3403CC6322937DDE00299688 /* KingPiece.swift */; };
-		3403CC66229613C300299688 /* BasicPiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3403CC65229613C300299688 /* BasicPiece.swift */; };
+		3403CC6822961A3100299688 /* BasicPiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3403CC6722961A3100299688 /* BasicPiece.swift */; };
 		3463E5FC2288C8E900232ACB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3463E5FB2288C8E900232ACB /* AppDelegate.swift */; };
 		3463E5FE2288C8E900232ACB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3463E5FD2288C8E900232ACB /* ViewController.swift */; };
 		3463E6012288C8E900232ACB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3463E5FF2288C8E900232ACB /* Main.storyboard */; };
@@ -23,7 +23,7 @@
 /* Begin PBXFileReference section */
 		3403CC5B228DD19200299688 /* Piece.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Piece.swift; sourceTree = "<group>"; };
 		3403CC6322937DDE00299688 /* KingPiece.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KingPiece.swift; sourceTree = "<group>"; };
-		3403CC65229613C300299688 /* BasicPiece.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicPiece.swift; sourceTree = "<group>"; };
+		3403CC6722961A3100299688 /* BasicPiece.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicPiece.swift; sourceTree = "<group>"; };
 		3463E5F82288C8E900232ACB /* Checkers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checkers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3463E5FB2288C8E900232ACB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3463E5FD2288C8E900232ACB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -69,7 +69,7 @@
 				3463E6142288E74700232ACB /* CheckerBoardView.swift */,
 				3463E6102288CF9D00232ACB /* Tile.swift */,
 				3403CC5B228DD19200299688 /* Piece.swift */,
-				3403CC65229613C300299688 /* BasicPiece.swift */,
+				3403CC6722961A3100299688 /* BasicPiece.swift */,
 				3403CC6322937DDE00299688 /* KingPiece.swift */,
 				3463E5FB2288C8E900232ACB /* AppDelegate.swift */,
 				3463E5FD2288C8E900232ACB /* ViewController.swift */,
@@ -153,7 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3403CC66229613C300299688 /* BasicPiece.swift in Sources */,
+				3403CC6822961A3100299688 /* BasicPiece.swift in Sources */,
 				3403CC6422937DDE00299688 /* KingPiece.swift in Sources */,
 				3463E6152288E74700232ACB /* CheckerBoardView.swift in Sources */,
 				3463E5FE2288C8E900232ACB /* ViewController.swift in Sources */,
